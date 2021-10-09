@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "e85ae978af1dd7eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb7eab6e74b004b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-10-09.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1332ae490ae0c3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "59f7f8d639713e7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "778944e8d40e3499",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c83aef59814d9cc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adebd9ca106e2d4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7878011577a9cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13276cea3fd47ab4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-10-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a3edf7d907b4d6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b475edd16e6549f",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ecb7eab6e74b004b",
+  "lastOpenFiles": [
+    "2021-10-09.md",
+    "ReadingNotes/Working With Unix Processes.md",
+    "ReadingNotes/Untitled.md"
+  ]
+}
