@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@Inbox📌/The P.A.R.A Method.md",
+            "file": "@Inbox📌/temp.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Inbox📌/The P.A.R.A Method.md",
+                "file": "@Inbox📌/temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,13 +116,13 @@
   },
   "active": "303fb9bc1adaf9a4",
   "lastOpenFiles": [
+    "@Inbox📌/未命名.md",
     "@Inbox📌/P.A.R.A.md",
     "300-📚Resource/Tiago Forte.md",
     "Tiago Forte.md",
     "Attachment/P.A.R.A.png",
     "Attachment/Pasted image 20211010142456.png",
     "Attachment/Tiago Forte.png",
-    "@Inbox📌/未命名.md",
     "2021-10-09.md",
     "ReadingNotes/Working With Unix Processes.md",
     "ReadingNotes/Untitled.md"
