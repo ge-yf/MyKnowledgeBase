@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ecb7eab6e74b004b",
+        "id": "303fb9bc1adaf9a4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-10-09.md",
+            "file": "@Inbox📌/The P.A.R.A Method.md",
             "mode": "source"
           }
         }
@@ -68,13 +68,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-09.md",
+                "file": "@Inbox📌/The P.A.R.A Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -94,19 +94,35 @@
             "id": "3b475edd16e6549f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c92e8b8028bcfeb",
+            "type": "leaf",
+            "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ecb7eab6e74b004b",
+  "active": "303fb9bc1adaf9a4",
   "lastOpenFiles": [
+    "@Inbox📌/P.A.R.A.md",
+    "300-📚Resource/Tiago Forte.md",
+    "Tiago Forte.md",
+    "Attachment/P.A.R.A.png",
+    "Attachment/Pasted image 20211010142456.png",
+    "Attachment/Tiago Forte.png",
+    "@Inbox📌/未命名.md",
     "2021-10-09.md",
     "ReadingNotes/Working With Unix Processes.md",
     "ReadingNotes/Untitled.md"

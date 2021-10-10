@@ -1,4 +1,6 @@
 {
   "showLineNumber": false,
-  "alwaysUpdateLinks": false
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachment",
+  "promptDelete": false
 }
