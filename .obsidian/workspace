@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "303fb9bc1adaf9a4",
+        "id": "88951b0f6b65b963",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@Inbox📌/temp.md",
+            "file": "100-📖Projects/120-23.5M/03-23.5M_CarPlay升级对应.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DailyReport",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220
   },
   "right": {
     "id": "adebd9ca106e2d4f",
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Inbox📌/temp.md",
+                "file": "100-📖Projects/120-23.5M/03-23.5M_CarPlay升级对应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,29 +102,36 @@
             "id": "9c92e8b8028bcfeb",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "967d0d2179f05fc6",
+            "type": "leaf",
+            "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 325.5
   },
-  "active": "303fb9bc1adaf9a4",
+  "active": "88951b0f6b65b963",
   "lastOpenFiles": [
-    "@Inbox📌/未命名.md",
-    "@Inbox📌/P.A.R.A.md",
-    "300-📚Resource/Tiago Forte.md",
-    "Tiago Forte.md",
-    "Attachment/P.A.R.A.png",
-    "Attachment/Pasted image 20211010142456.png",
-    "Attachment/Tiago Forte.png",
-    "2021-10-09.md",
-    "ReadingNotes/Working With Unix Processes.md",
-    "ReadingNotes/Untitled.md"
+    "100-📖Projects/120-23.5M/03-23.5M_CarPlay升级对应.md",
+    "100-📖Projects/110-Journal/20211023.md",
+    "400-📦Archive/401-Journal/20211021.md",
+    "400-📦Archive/401-Journal/20211022.md",
+    "100-📖Projects/110-Journal/20211022.md",
+    "100-📖Projects/120-23.5M/02-23.5M_实机使用.md",
+    "100-📖Projects/110-Journal/20211021.md",
+    "100-📖Projects/110-Journal/20211020.md",
+    "100-📖Projects/110-Journal/20211019.md",
+    "100-📖Projects/110-Journal/20211018.md"
   ]
 }

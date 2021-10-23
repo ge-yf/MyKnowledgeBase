@@ -2,5 +2,8 @@
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachment",
-  "promptDelete": false
+  "promptDelete": false,
+  "foldHeading": true,
+  "readableLineLength": false,
+  "useTab": false
 }
