@@ -5,5 +5,7 @@
   "promptDelete": false,
   "foldHeading": true,
   "readableLineLength": false,
-  "useTab": false
+  "useTab": false,
+  "legacyEditor": false,
+  "livePreview": true
 }

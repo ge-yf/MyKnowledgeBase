@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "88951b0f6b65b963",
+        "id": "e3a29da61937a006",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "100-📖Projects/120-23.5M/03-23.5M_CarPlay升级对应.md",
-            "mode": "source"
+            "file": "Attachment/企业微信截图_16364459104529.png"
           }
         }
       }
@@ -39,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DailyReport",
+                "query": "while true",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220
+    "width": 294.5
   },
   "right": {
     "id": "adebd9ca106e2d4f",
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-📖Projects/120-23.5M/03-23.5M_CarPlay升级对应.md",
+                "file": "Attachment/企业微信截图_16364459104529.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,22 +90,6 @@
             }
           },
           {
-            "id": "3b475edd16e6549f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9c92e8b8028bcfeb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "967d0d2179f05fc6",
             "type": "leaf",
             "state": {
@@ -115,23 +98,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 370.5
   },
-  "active": "88951b0f6b65b963",
+  "active": "e3a29da61937a006",
   "lastOpenFiles": [
-    "100-📖Projects/120-23.5M/03-23.5M_CarPlay升级对应.md",
-    "100-📖Projects/110-Journal/20211023.md",
-    "400-📦Archive/401-Journal/20211021.md",
-    "400-📦Archive/401-Journal/20211022.md",
-    "100-📖Projects/110-Journal/20211022.md",
+    "Attachment/企业微信截图_16364459104529.png",
+    "100-📖Projects/130-Darling/01-Darling_实机使用.md",
+    "100-📖Projects/130-Darling/00-Darling.md",
+    "100-📖Projects/110-Journal/20220218.md",
+    "100-📖Projects/110-Journal/20220217.md",
+    "100-📖Projects/110-Journal/20220216.md",
+    "100-📖Projects/110-Journal/20220214.md",
+    "100-📖Projects/110-Journal/20220215.md",
     "100-📖Projects/120-23.5M/02-23.5M_实机使用.md",
-    "100-📖Projects/110-Journal/20211021.md",
-    "100-📖Projects/110-Journal/20211020.md",
-    "100-📖Projects/110-Journal/20211019.md",
-    "100-📖Projects/110-Journal/20211018.md"
+    "100-📖Projects/120-23.5M/03-23.5M_CarPlay升级对应.md"
   ]
 }
