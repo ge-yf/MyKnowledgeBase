@@ -7,9 +7,11 @@
         "id": "e3a29da61937a006",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Attachment/企业微信截图_16364459104529.png"
+            "file": "@Inbox📌/Linux 中的各种栈.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "while true",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/企业微信截图_16364459104529.png",
+                "file": "@Inbox📌/Linux 中的各种栈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +108,15 @@
   },
   "active": "e3a29da61937a006",
   "lastOpenFiles": [
-    "Attachment/企业微信截图_16364459104529.png",
-    "100-📖Projects/130-Darling/01-Darling_实机使用.md",
-    "100-📖Projects/130-Darling/00-Darling.md",
-    "100-📖Projects/110-Journal/20220218.md",
-    "100-📖Projects/110-Journal/20220217.md",
-    "100-📖Projects/110-Journal/20220216.md",
-    "100-📖Projects/110-Journal/20220214.md",
-    "100-📖Projects/110-Journal/20220215.md",
-    "100-📖Projects/120-23.5M/02-23.5M_实机使用.md",
-    "100-📖Projects/120-23.5M/03-23.5M_CarPlay升级对应.md"
+    "@Inbox📌/Linux 中的各种栈.md",
+    "100-📖Projects/110-Journal/20220617.md",
+    "100-📖Projects/130-Android/132-24MM/01-24MM_TaskManager.md",
+    "100-📖Projects/110-Journal/20220616.md",
+    "100-📖Projects/110-Journal/20220615.md",
+    "100-📖Projects/110-Journal/20220614.md",
+    "@Inbox📌/SPI通信.md",
+    "100-📖Projects/130-Android/131-Darling/01-Darling_TaskManager.md",
+    "100-📖Projects/130-Android/131-Darling/00-Darling.md",
+    "100-📖Projects/130-Android/132-24MM/99-comd.md"
   ]
 }
