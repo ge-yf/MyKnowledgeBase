@@ -1,5 +1,5 @@
 {
-  "showLineNumber": false,
+  "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachment",
   "promptDelete": false,
@@ -7,5 +7,8 @@
   "readableLineLength": false,
   "useTab": false,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "rightToLeft": false
 }

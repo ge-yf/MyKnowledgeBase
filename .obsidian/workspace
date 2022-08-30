@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a29da61937a006",
+        "id": "aa284f5d037ea1f4",
         "type": "leaf",
         "state": {
-          "type": "image",
-          "state": {
-            "file": "Attachment/企业微信截图_16364459104529.png"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -38,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "while true",
+                "query": "tag:#today",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/企业微信截图_16364459104529.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,25 +93,33 @@
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
+          },
+          {
+            "id": "f8110ac8ae27d6a9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 370.5
   },
-  "active": "e3a29da61937a006",
+  "active": "778944e8d40e3499",
   "lastOpenFiles": [
-    "Attachment/企业微信截图_16364459104529.png",
-    "100-📖Projects/130-Darling/01-Darling_实机使用.md",
-    "100-📖Projects/130-Darling/00-Darling.md",
-    "100-📖Projects/110-Journal/20220218.md",
-    "100-📖Projects/110-Journal/20220217.md",
-    "100-📖Projects/110-Journal/20220216.md",
-    "100-📖Projects/110-Journal/20220214.md",
-    "100-📖Projects/110-Journal/20220215.md",
-    "100-📖Projects/120-23.5M/02-23.5M_实机使用.md",
-    "100-📖Projects/120-23.5M/03-23.5M_CarPlay升级对应.md"
+    "100-📖Projects/110-Journal/20220830.md",
+    "400-📦Archive/402-Templete/DailyReport.md",
+    "100-📖Projects/110-Journal/20220829.md",
+    "400-📦Archive/401-Journal/2022/202208/20220826.md",
+    "400-📦Archive/401-Journal/2022/202208/20220825.md",
+    "400-📦Archive/401-Journal/2022/202208/20220824.md",
+    "400-📦Archive/401-Journal/2022/202208/20220823.md",
+    "400-📦Archive/401-Journal/2022/202208/20220822.md",
+    "@Inbox📌/Chrome快捷键.md",
+    "400-📦Archive/401-Journal/2022/202203/20220323.md"
   ]
 }
