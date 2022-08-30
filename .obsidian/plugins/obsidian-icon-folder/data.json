@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarFontAwesome",
+      "FarGem",
+      "FarAddressBook",
+      "FarNewspaper",
+      "FarFileZipper"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "@Inbox📌": "FarPaperPlane",
+  "400-📦Archive": "FarHardDrive",
+  "Attachment": "FarFileZipper",
+  "300-📚Resource": "FarNewspaper",
+  "000-📇Index": "FarAddressBook",
+  "100-📖Projects": "FarGem",
+  "200-👨‍💻Area": "FarFontAwesome"
+}

@@ -1,8 +1,10 @@
 [
-  "obsidian-kanban",
-  "obsidian-mind-map",
   "obsidian-plugin-todo",
   "obsidian-tasks-plugin",
   "obsidian-minimal-settings",
-  "obsidian-hider"
+  "obsidian-hider",
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "periodic-notes",
+  "obsidian-icon-folder"
 ]
