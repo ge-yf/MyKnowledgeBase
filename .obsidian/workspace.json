@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa284f5d037ea1f4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "@Inbox📌/ArchLinux/wsl安装Arch.md",
-            "mode": "source",
-            "source": false
+        "id": "66c7b0b3b0a373ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36ce19a88e3dff0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Inbox📌/你管这破玩意叫操作系统源码/00_Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -47,6 +55,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "0f32c5ba49167ef8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -69,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Inbox📌/ArchLinux/wsl安装Arch.md",
+                "file": "@Inbox📌/你管这破玩意叫操作系统源码/00_Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +128,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 325.5,
+    "collapsed": true
   },
-  "active": "aa284f5d037ea1f4",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "778944e8d40e3499",
   "lastOpenFiles": [
+    "@Inbox📌/健身/哑铃.md",
+    "Attachment/Pasted image 20230311165514.png",
+    "Attachment/Pasted image 20230311165202.png",
+    "@Inbox📌/健身/运动消耗计算.md",
+    "Attachment/Pasted image 20230311160132.png",
+    "@Inbox📌/健身",
+    "@Inbox📌/Linux软件配置/neovim（arch linux下）.md",
+    "@Inbox📌/ArchLinux/wsl安装Arch.md",
     "@Inbox📌/Linux软件配置/zsh.md",
     "@Inbox📌/Linux软件配置/spacemacs.md",
     "@Inbox📌/Git.md",
@@ -123,8 +160,6 @@
     "@Inbox📌/Windows快捷键.md",
     "@Inbox📌/The P.A.R.A Method.md",
     "@Inbox📌/SPI通信.md",
-    "@Inbox📌/repo命令.md",
-    "@Inbox📌/obsidian_temp.md",
-    "@Inbox📌/你管这破玩意叫操作系统源码/00_Summary.md"
+    "@Inbox📌/repo命令.md"
   ]
 }

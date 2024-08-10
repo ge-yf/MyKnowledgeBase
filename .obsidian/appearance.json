@@ -1,9 +1,11 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 20,
   "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Dracula for Obsidian",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "color-Heading"
-  ]
+  ],
+  "accentColor": "",
+  "nativeMenus": false
 }
