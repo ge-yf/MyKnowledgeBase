@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "66c7b0b3b0a373ad",
+        "id": "e60512d49d57cef1",
         "type": "tabs",
         "children": [
           {
-            "id": "36ce19a88e3dff0a",
+            "id": "f5e8a246e2f5f742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Inbox📌/你管这破玩意叫操作系统源码/00_Summary.md",
+                "file": "@Inbox📌/wayland/Wayland入门教程/04.调试工具.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "04.调试工具"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#today",
+                "query": "font",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Inbox📌/你管这破玩意叫操作系统源码/00_Summary.md",
+                "file": "@Inbox📌/wayland/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -104,7 +114,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -112,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -120,7 +134,19 @@
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "165cf22638df550e",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo"
             }
           }
         ],
@@ -133,7 +159,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -141,25 +166,43 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "36ce19a88e3dff0a",
+  "active": "f5e8a246e2f5f742",
   "lastOpenFiles": [
-    "@Inbox📌/健身/哑铃.md",
+    "Attachment/Pasted image 20241124232459.png",
+    "@Inbox📌/wayland/Wayland入门教程/03.Wayland架构.md",
+    "@Inbox📌/wayland/Wayland入门教程/04.调试工具.md",
+    "Attachment/Pasted image 20241123172809.png",
+    "Attachment/Deviceislocked1.jpg",
+    "Attachment/Pasted image 20241123165736.png",
     "Attachment/Pasted image 20230311165514.png",
-    "Attachment/Pasted image 20230311165202.png",
+    "Attachment/Pasted image 20241123172730.png",
+    "@Inbox📌/wayland/Wayland入门教程/01.框架介绍.md",
+    "@Inbox📌/wayland/Wayland入门教程/02.库安装配置与介绍.md",
+    "Attachment/Pasted image 20241123165547.png",
+    "Attachment/Pasted image 20241123165614.png",
+    "Attachment/Pasted image 20241123165656.png",
+    "Attachment/Pasted image 20241123165419.png",
+    "@Inbox📌/wayland/Wayland入门教程",
+    "@Inbox📌/Linux软件配置/Ubuntu.md",
+    "@Inbox📌/wayland",
+    "@Inbox📌/Linux软件配置/zsh.md",
+    "300-📚Resource/Tiago Forte.md",
+    "Attachment/TiagoForte.jpg",
+    "![[Tiago.md",
+    "@Inbox📌/The P.A.R.A Method.md",
+    "@Inbox📌/你管这破玩意叫操作系统源码/00_Summary.md",
+    "@Inbox📌/健身/哑铃.md",
     "@Inbox📌/健身/运动消耗计算.md",
-    "Attachment/Pasted image 20230311160132.png",
     "@Inbox📌/健身",
     "@Inbox📌/Linux软件配置/neovim（arch linux下）.md",
     "@Inbox📌/ArchLinux/wsl安装Arch.md",
-    "@Inbox📌/Linux软件配置/zsh.md",
     "@Inbox📌/Linux软件配置/spacemacs.md",
     "@Inbox📌/Git.md",
-    "@Inbox📌/Linux软件配置/Ubuntu.md",
     "@Inbox📌/Windows快捷键.md",
-    "@Inbox📌/The P.A.R.A Method.md",
     "@Inbox📌/SPI通信.md",
     "@Inbox📌/repo命令.md"
   ]
