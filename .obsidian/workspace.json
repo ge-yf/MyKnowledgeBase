@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Inbox📌/你管这破玩意叫操作系统源码/04_把自己在硬盘里的其他部分也放到内存来.md",
+                "file": "@Inbox📌/Emacs/emacs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04_把自己在硬盘里的其他部分也放到内存来"
+              "title": "emacs"
             }
           }
         ]
@@ -180,8 +180,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f5e8a246e2f5f742",
+  "active": "778944e8d40e3499",
   "lastOpenFiles": [
+    "@Inbox📌/Linux软件配置/zsh.md",
+    "@Inbox📌/Linux软件配置/Ubuntu.md",
+    "@Inbox📌/Emacs/spacemacs.md",
+    "@Inbox📌/Linux软件配置/neovim.md",
+    "@Inbox📌/Ubuntu使用.md",
+    "@Inbox📌/ArchLinux/wsl安装Arch.md",
+    "@Inbox📌/你管这破玩意叫操作系统源码/04_把自己在硬盘里的其他部分也放到内存来.md",
     "Attachment/Pasted image 20241215204937.png",
     "Attachment/Pasted image 20241215204923.png",
     "Attachment/Pasted image 20241215204912.png",
@@ -190,11 +197,9 @@
     "Attachment/Pasted image 20241215204724.png",
     "Attachment/Pasted image 20241215204713.png",
     "@Inbox📌/你管这破玩意叫操作系统源码/03_做好最最基础的准备工作.md",
-    "@Inbox📌/你管这破玩意叫操作系统源码/04_把自己在硬盘里的其他部分也放到内存来.md",
     "Attachment/Pasted image 20241215204123.png",
     "Attachment/Pasted image 20241215204108.png",
     "Attachment/Pasted image 20241215204048.png",
-    "Attachment/Pasted image 20241215204035.png",
     "@Inbox📌/你管这破玩意叫操作系统源码/02_自己给自己挪个地儿.md",
     "@Inbox📌/你管这破玩意叫操作系统源码/01_最开始的两行代码.md",
     "@Inbox📌/你管这破玩意叫操作系统源码/00_Summary.md",
@@ -203,18 +208,13 @@
     "@Inbox📌/wayland/Wayland入门教程/01.框架介绍.md",
     "@Inbox📌/wayland/Wayland入门教程/02.库安装配置与介绍.md",
     "@Inbox📌/wayland/Wayland入门教程",
-    "@Inbox📌/Linux软件配置/Ubuntu.md",
     "@Inbox📌/wayland",
-    "@Inbox📌/Linux软件配置/zsh.md",
     "300-📚Resource/Tiago Forte.md",
     "![[Tiago.md",
     "@Inbox📌/The P.A.R.A Method.md",
     "@Inbox📌/健身/哑铃.md",
     "@Inbox📌/健身/运动消耗计算.md",
     "@Inbox📌/健身",
-    "@Inbox📌/Linux软件配置/neovim（arch linux下）.md",
-    "@Inbox📌/ArchLinux/wsl安装Arch.md",
-    "@Inbox📌/Linux软件配置/spacemacs.md",
     "@Inbox📌/Git.md",
     "@Inbox📌/Windows快捷键.md",
     "@Inbox📌/SPI通信.md",

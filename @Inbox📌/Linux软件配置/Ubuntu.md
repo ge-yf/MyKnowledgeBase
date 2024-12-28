@@ -1,4 +1,22 @@
-# Ubuntu
+## 挂代理
+
+### 代理软件
+1. https://github.com/v2ray/v2ray-core
+2.  https://github.com/Qv2ray/Qv2ray
+3. https://justmysocks1.net/
+
+### 终端配置
+```shell
+vim ~/.zshrc
+
+# proxy setting
+export http_proxy=http://localhost:8889
+export https_proxy=http://localhost:8889
+export all_proxy=socks5://localhost:1089
+
+source .zshrc
+```
+
 
 ## 快捷键
 
@@ -111,8 +129,17 @@ eval "$(fasd --init auto)"
 ```
 
 
+### 键盘F1到FN不好用
+    终端输入如下命令临时关闭FN功能键：
+            echo 0 | sudo tee /sys/module/hid_apple/parameters/fnmode
+    终端输入如下命令永久关闭FN功能键：
+            echo options hid_apple fnmode=0 | sudo tee -a /etc/modprobe.d/hid_apple.conf
+            sudo update-initramfs -u -k all
 
-
-
-## Error Info
+### amd显卡驱动
+    https://www.amd.com/zh-cn/support/download/linux-drivers.html
+     下载后终端输入如下命令：
+         1. chmod 777 ./XXX.deb
+         2. sudo dpkg -i ./XXX.deb
+         3. amdgpu-install
 
