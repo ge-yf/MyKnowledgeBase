@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Inbox📌/Emacs/emacs.md",
+                "file": "@Inbox📌/wayland/Wayland入门教程/03.Wayland架构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "emacs"
+              "title": "03.Wayland架构"
             }
           }
         ]
@@ -180,12 +180,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "778944e8d40e3499",
+  "active": "f5e8a246e2f5f742",
   "lastOpenFiles": [
-    "@Inbox📌/Linux软件配置/zsh.md",
-    "@Inbox📌/Linux软件配置/Ubuntu.md",
-    "@Inbox📌/Emacs/spacemacs.md",
+    "@Inbox📌/wayland/Wayland入门教程/01.框架介绍.md",
     "@Inbox📌/Linux软件配置/neovim.md",
+    "@Inbox📌/Linux软件配置/Ubuntu.md",
+    "@Inbox📌/Emacs/emacs.md",
+    "@Inbox📌/Linux软件配置/zsh.md",
+    "@Inbox📌/Emacs/spacemacs.md",
     "@Inbox📌/Ubuntu使用.md",
     "@Inbox📌/ArchLinux/wsl安装Arch.md",
     "@Inbox📌/你管这破玩意叫操作系统源码/04_把自己在硬盘里的其他部分也放到内存来.md",
@@ -205,7 +207,6 @@
     "@Inbox📌/你管这破玩意叫操作系统源码/00_Summary.md",
     "@Inbox📌/wayland/Wayland入门教程/04.调试工具.md",
     "@Inbox📌/wayland/Wayland入门教程/03.Wayland架构.md",
-    "@Inbox📌/wayland/Wayland入门教程/01.框架介绍.md",
     "@Inbox📌/wayland/Wayland入门教程/02.库安装配置与介绍.md",
     "@Inbox📌/wayland/Wayland入门教程",
     "@Inbox📌/wayland",
