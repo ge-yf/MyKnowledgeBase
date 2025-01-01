@@ -1,4 +1,4 @@
-## 1. 安装Nerd Font字体
+## 1. 安装Nerd Font字体(可选)
 
 网址： https://www.nerdfonts.com/font-downloads
 选择喜欢的字体下载
@@ -11,7 +11,7 @@ unzip Meslo.zip -d ~/.local/share/fonts
 fc-cache -fv
 ```
 
-## 2. 安装Python3
+## 2. 安装Python3(ArchLinux不需要)
 
 ```shell
 sudo apt install -yqq python3 python3-venv python3-pip
