@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Inbox📌/Linux软件配置/neovim.md",
+                "file": "@Inbox📌/Linux软件配置/ArchLinux/Install.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "neovim"
+              "title": "Install"
             }
           }
         ]
@@ -192,12 +192,14 @@
   },
   "active": "f5e8a246e2f5f742",
   "lastOpenFiles": [
-    "@Inbox📌/Linux软件配置/zsh.md",
-    "@Inbox📌/Linux软件配置/ArchLinux/Install.md",
-    "@Inbox📌/Linux软件配置/ArchLinux/Kitty.md",
-    "@Inbox📌/Linux软件配置/ArchLinux/SoftwareConfig.md",
     "@Inbox📌/Linux软件配置/ArchLinux/Hyprland.md",
+    "@Inbox📌/Linux软件配置/ArchLinux/SoftwareConfig.md",
+    "@Inbox📌/Linux软件配置/ArchLinux/Kitty.md",
+    "@Inbox📌/Linux软件配置/ArchLinux/Install.md",
+    "![[Tiago.md",
+    "@Inbox📌/The P.A.R.A Method.md",
     "@Inbox📌/Linux软件配置/neovim.md",
+    "@Inbox📌/Linux软件配置/zsh.md",
     "@Inbox📌/Linux软件配置/Ubuntu",
     "@Inbox📌/Linux软件配置/ArchLinux",
     "@Inbox📌/wayland/Wayland入门教程/03.Wayland架构.md",
@@ -227,8 +229,6 @@
     "@Inbox📌/wayland/Wayland入门教程",
     "@Inbox📌/wayland",
     "300-📚Resource/Tiago Forte.md",
-    "![[Tiago.md",
-    "@Inbox📌/The P.A.R.A Method.md",
     "@Inbox📌/健身/哑铃.md",
     "@Inbox📌/健身/运动消耗计算.md",
     "@Inbox📌/健身",
