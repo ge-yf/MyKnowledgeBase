@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Inbox📌/Linux软件配置/ArchLinux/Install.md",
+                "file": "@Inbox📌/Linux软件配置/ArchLinux/SoftwareConfig.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install"
+              "title": "SoftwareConfig"
             }
           }
         ]
@@ -193,9 +193,12 @@
   "active": "f5e8a246e2f5f742",
   "lastOpenFiles": [
     "@Inbox📌/Linux软件配置/ArchLinux/Hyprland.md",
-    "@Inbox📌/Linux软件配置/ArchLinux/SoftwareConfig.md",
+    "@Inbox📌/Linux软件配置/ArchLinux/bluetooth.md",
     "@Inbox📌/Linux软件配置/ArchLinux/Kitty.md",
+    "@Inbox📌/Linux软件配置/ArchLinux/Untitled.md",
+    "@Inbox📌/Linux软件配置/ArchLinux/SoftwareConfig.md",
     "@Inbox📌/Linux软件配置/ArchLinux/Install.md",
+    "@Inbox📌/Linux软件配置/ArchLinux/kitty.conf",
     "![[Tiago.md",
     "@Inbox📌/The P.A.R.A Method.md",
     "@Inbox📌/Linux软件配置/neovim.md",
@@ -230,8 +233,6 @@
     "@Inbox📌/wayland",
     "300-📚Resource/Tiago Forte.md",
     "@Inbox📌/健身/哑铃.md",
-    "@Inbox📌/健身/运动消耗计算.md",
-    "@Inbox📌/健身",
-    "@Inbox📌/Git.md"
+    "@Inbox📌/健身"
   ]
 }
