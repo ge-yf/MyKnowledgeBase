@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Inbox📌/Linux软件配置/v2ray.md",
+                "file": "@Inbox📌/Linux软件配置/zsh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "v2ray"
+              "title": "zsh"
             }
           }
         ]
@@ -204,8 +204,8 @@
   },
   "active": "f5e8a246e2f5f742",
   "lastOpenFiles": [
-    "@Inbox📌/Linux软件配置/ArchLinux/SoftwareConfig.md",
     "@Inbox📌/Linux软件配置/v2ray.md",
+    "@Inbox📌/Linux软件配置/ArchLinux/SoftwareConfig.md",
     "@Inbox📌/Linux软件配置/ArchLinux/Untitled.md",
     "@Inbox📌/Linux软件配置/ArchLinux/Hyprland.md",
     "@Inbox📌/Linux软件配置/ArchLinux/bluetooth.md",
