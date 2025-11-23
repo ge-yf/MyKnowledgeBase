@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Inbox📌/Linux软件配置/ArchLinux/SoftwareConfig.md",
+                "file": "@Inbox📌/Linux软件配置/v2ray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SoftwareConfig"
+              "title": "v2ray"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -125,8 +126,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -135,8 +136,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -145,8 +146,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -155,12 +156,22 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
             "id": "22b275514ea57025",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
+            }
+          },
+          {
+            "id": "1e33072cbe1f4733",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -179,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -192,11 +204,12 @@
   },
   "active": "f5e8a246e2f5f742",
   "lastOpenFiles": [
+    "@Inbox📌/Linux软件配置/ArchLinux/SoftwareConfig.md",
+    "@Inbox📌/Linux软件配置/v2ray.md",
+    "@Inbox📌/Linux软件配置/ArchLinux/Untitled.md",
     "@Inbox📌/Linux软件配置/ArchLinux/Hyprland.md",
     "@Inbox📌/Linux软件配置/ArchLinux/bluetooth.md",
     "@Inbox📌/Linux软件配置/ArchLinux/Kitty.md",
-    "@Inbox📌/Linux软件配置/ArchLinux/Untitled.md",
-    "@Inbox📌/Linux软件配置/ArchLinux/SoftwareConfig.md",
     "@Inbox📌/Linux软件配置/ArchLinux/Install.md",
     "@Inbox📌/Linux软件配置/ArchLinux/kitty.conf",
     "![[Tiago.md",
@@ -232,7 +245,6 @@
     "@Inbox📌/wayland/Wayland入门教程",
     "@Inbox📌/wayland",
     "300-📚Resource/Tiago Forte.md",
-    "@Inbox📌/健身/哑铃.md",
     "@Inbox📌/健身"
   ]
 }
