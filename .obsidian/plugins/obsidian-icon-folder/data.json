@@ -37,7 +37,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "400-📦Archive": "FarHardDrive",
   "Attachment": "FarFileZipper",

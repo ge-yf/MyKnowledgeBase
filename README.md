@@ -2,7 +2,7 @@
 
 个人知识库，用 [Obsidian](https://obsidian.md) 打开，按 [PARA](https://fortelabs.com/blog/para/) 方法组织，多台机器通过 GitHub 同步。
 
-目前收录 **46 篇笔记** + 90 个附件，正在陆续整理中。
+目前收录 **44 篇笔记** + 90 个附件，正在陆续整理中。
 
 ## 目录结构
 
@@ -16,7 +16,7 @@
 | `Attachment/` | 笔记图片等附件 |
 | `.obsidian/` | Obsidian 配置与插件 |
 
-空目录用 `.nofile` 占位，这样 git 才能跟踪到它。
+空目录用 `.nofile` 占位（目前只剩 `400-📦Archive/` 需要），这样 git 才能跟踪到它。
 
 ## 用法
 
@@ -37,15 +37,15 @@ git clone https://github.com/ge-yf/MyKnowledgeBase.git
 
 ### 工具与技巧（`200-👨‍💻Area/工具与技巧/`）
 
-Git、repo 命令、emacs、markdown 语法、Chrome 快捷键、Windows 快捷键
+Git、repo 命令、markdown 语法、Chrome 快捷键、Windows 快捷键
 
 ### 嵌入式（`200-👨‍💻Area/嵌入式/`）
 
 SPI 通信、嵌入式开发进阶笔记
 
-### 健身 / Python
+### 健身
 
-`200-👨‍💻Area/健身/`：哑铃、运动消耗计算；`200-👨‍💻Area/Python/`：print
+`200-👨‍💻Area/健身/`：哑铃、运动消耗计算
 
 ### Resource（`300-📚Resource/`）
 
