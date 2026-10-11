@@ -6,7 +6,8 @@ GitHub: [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 
 1. Shell中输入如下命令
 ```Shell
-sudo apt install zsh  # 安装
+sudo apt install zsh  # Ubuntu
+sudo pacman -S zsh    # ArchLinux
 zsh --version         # 查看版本
 chsh -s /bin/zsh      # 将默认shell修改为zsh
 ```
@@ -45,52 +46,6 @@ plugins=( [plugins...] zsh-syntax-highlighting)
 ```
 
 3. 读取配置及时生效
-
-```
-source ~/.zshrc
-```
-
-## 增加directory高亮
-
-1. 设置solarized theme for GNU ls
-
-```Shell
-git clone https://github.com/seebi/dircolors-solarized.git
-cp ~/dircolors-solarized/dircolors.256dark ~/.dircolors
-eval 'dircolors .dircolors'
-```
-
-2. 设置 Terminal 支持 256 色, 在`.zshrc`中添加如下语句
-
-```
-export TERM=xterm-256color
-```
-
-3. 下载 Solarized 的 Gnome-Terminal 配色
-
-```
-git clone https://github.com/sigurdga/gnome-terminal-colors-solarized.git
-cd gnome-terminal-colors-solarized
-./set_dark.sh
-```
-
-4. 将下面额code追加到`.zshrc`中
-
-```
-# enable color support of ls and also add handy aliases
-if [ -x /usr/bin/dircolors ]; then
-    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
-    alias ls='ls --color=always'
-    alias dir='dir --color=always'
-    alias vdir='vdir --color=always'
-
-    alias grep='grep --color=always'
-    alias fgrep='fgrep --color=always'
-    alias egrep='egrep --color=always'
-fi
-```
-
-5. 读取配置及时生效
 
 ```
 source ~/.zshrc

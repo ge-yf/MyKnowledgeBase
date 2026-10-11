@@ -1,8 +1,4 @@
 
-# emacs
-
-
-
 ## Linux下配置
 
 ### 追加PPA:
