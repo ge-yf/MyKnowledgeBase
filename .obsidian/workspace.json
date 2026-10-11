@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e60512d49d57cef1",
+        "id": "c3ddb73abbf9eea3",
         "type": "tabs",
         "children": [
           {
-            "id": "f5e8a246e2f5f742",
+            "id": "5ba75be35094dcdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Inbox📌/wayland/Wayland入门教程/04.调试工具.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "04.调试工具"
+              "title": "新标签页"
             }
           }
         ]
@@ -40,10 +36,13 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -113,7 +112,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -148,6 +149,21 @@
               "icon": "checkmark",
               "title": "Todo"
             }
+          },
+          {
+            "id": "71de3cb3e70bf38c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "@Inbox📌/wayland/The Wayland Protocol.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "The Wayland Protocol 的大纲"
+            }
           }
         ],
         "currentTab": 1
@@ -159,51 +175,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
       "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "f5e8a246e2f5f742",
+  "active": "5ba75be35094dcdc",
   "lastOpenFiles": [
-    "Attachment/Pasted image 20241124232459.png",
-    "@Inbox📌/wayland/Wayland入门教程/03.Wayland架构.md",
-    "@Inbox📌/wayland/Wayland入门教程/04.调试工具.md",
-    "Attachment/Pasted image 20241123172809.png",
-    "Attachment/Deviceislocked1.jpg",
-    "Attachment/Pasted image 20241123165736.png",
-    "Attachment/Pasted image 20230311165514.png",
-    "Attachment/Pasted image 20241123172730.png",
-    "@Inbox📌/wayland/Wayland入门教程/01.框架介绍.md",
-    "@Inbox📌/wayland/Wayland入门教程/02.库安装配置与介绍.md",
-    "Attachment/Pasted image 20241123165547.png",
-    "Attachment/Pasted image 20241123165614.png",
-    "Attachment/Pasted image 20241123165656.png",
-    "Attachment/Pasted image 20241123165419.png",
-    "@Inbox📌/wayland/Wayland入门教程",
-    "@Inbox📌/Linux软件配置/Ubuntu.md",
-    "@Inbox📌/wayland",
-    "@Inbox📌/Linux软件配置/zsh.md",
-    "300-📚Resource/Tiago Forte.md",
-    "Attachment/TiagoForte.jpg",
-    "![[Tiago.md",
-    "@Inbox📌/The P.A.R.A Method.md",
-    "@Inbox📌/你管这破玩意叫操作系统源码/00_Summary.md",
-    "@Inbox📌/健身/哑铃.md",
-    "@Inbox📌/健身/运动消耗计算.md",
-    "@Inbox📌/健身",
-    "@Inbox📌/Linux软件配置/neovim（arch linux下）.md",
-    "@Inbox📌/ArchLinux/wsl安装Arch.md",
     "@Inbox📌/Linux软件配置/spacemacs.md",
+    "@Inbox📌/压缩与解压缩.md",
+    "@Inbox📌/APUE.md",
+    "@Inbox📌/Chrome快捷键.md",
+    "@Inbox📌/emacs.md",
     "@Inbox📌/Git.md",
-    "@Inbox📌/Windows快捷键.md",
+    "@Inbox📌/Linux 中的各种栈.md",
+    "@Inbox📌/Linux进程间通信-pipe.md",
+    "@Inbox📌/Linux目录和文件权限.md",
+    "@Inbox📌/Linux手动挂载U盘.md",
+    "@Inbox📌/markdown语法.md",
+    "@Inbox📌/repo命令.md",
+    "@Inbox📌/obsidian_temp.md",
     "@Inbox📌/SPI通信.md",
-    "@Inbox📌/repo命令.md"
+    "300-📚Resource/AI辅助编程学习资源.md",
+    "300-📚Resource/Tiago Forte.md",
+    "@Inbox📌/烟油/halo香精.md",
+    "@Inbox📌/Linux软件配置/zsh.md",
+    "@Inbox📌/Linux软件配置/Ubuntu.md",
+    "@Inbox📌/Linux软件配置/neovim（arch linux下）.md",
+    "100-📖Projects/00_家庭健身计划/训练 A/高脚杯深蹲.md",
+    "Attachment/Pasted image 20260928214947.png",
+    "Attachment/Pasted image 20260928214924.png",
+    "100-📖Projects/00_家庭健身计划/训练 A",
+    "100-📖Projects/00_家庭健身计划/家庭健身计划_第一阶段12周.docx",
+    "100-📖Projects/00_家庭健身计划/~$健身计划_第一阶段12周.docx",
+    "100-📖Projects/00_家庭健身计划",
+    "100-📖Projects/家庭健身计划/训练 A/高脚杯深蹲.md",
+    "100-📖Projects/家庭健身计划/训练 A",
+    "100-📖Projects/家庭健身计划/家庭健身计划_第一阶段12周.docx",
+    "100-📖Projects/家庭健身计划/~$健身计划_第一阶段12周.docx",
+    "100-📖Projects/家庭健身计划",
+    "@Inbox📌/烟油/奇异果百香果番石榴.md",
+    "@Inbox📌/烟油/水果特饮.md",
+    "Attachment/TiagoForte.jpg",
+    "Attachment/project_vs_areas.png",
+    "Attachment/Pasted image 20220715140311.png",
+    "Attachment/Pasted image 20230311165202.png",
+    "Attachment/Pasted image 20230311165514.png",
+    "Attachment/Pasted image 20241123165736.png",
+    "Attachment/Pasted image 20241123172809.png",
+    "Attachment/Pasted image 20241124232459.png",
+    "@Inbox📌/Python/print.md",
+    "@Inbox📌/Python",
+    "![[Tiago.md",
+    "Untitled.canvas",
+    "@Inbox📌/wayland/The Wayland Protocol"
   ]
 }
