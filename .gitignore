@@ -1,0 +1,10 @@
+# Obsidian 本机状态文件（多机同步容易冲突）
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/backlink.json
+
+# Office 临时锁文件
+~$*
+
+# Obsidian 本地回收站（如启用）
+.trash/
